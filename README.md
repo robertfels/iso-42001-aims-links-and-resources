@@ -100,6 +100,10 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   https://www.rtr.at/rtr/service/ki-servicestelle/ai-act/AI_Act.de.html  
   https://www.rtr.at/rtr/service/ki-servicestelle/ai-act/Betreiberverpflichtungen.de.html
 
+- **BMDS — Gesetz zur Durchführung der KI-Verordnung** `DE`  
+  German implementation law for the EU AI Regulation (draft status)  
+  https://bmds.bund.de/service/gesetzgebungsverfahren/gesetz-zur-durchfuehrung-der-ki-verordnung
+
 - **Bitkom Implementation Guide** `DE` `PDF`  
   Practical implementation guide for the EU AI Act  
   https://www.bitkom.org/sites/main/files/2024-10/241028-bitkom-umsetzungsleitfaden-ki.pdf
