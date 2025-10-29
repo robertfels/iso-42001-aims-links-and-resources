@@ -121,9 +121,3 @@ We welcome contributions!
 
 See [`LICENSE`](./LICENSE) for details.
 
----
-
-### Suggested tags (for repository topics)
-
-`iso-42001`, `ai-governance`, `eu-ai-act`, `aims`, `risk-management`, `security`, `responsible-ai`, `compliance`
-
