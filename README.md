@@ -82,7 +82,7 @@ A practical, vendor-agnostic collection of links to help teams design, implement
 ## EU AI Act & Regulation
 
 ### Official EU Resources
-- **EU AI Act — Official Text** `(DE)`  
+- **EU AI Act — Official Text** `DE`  
   Official publication of the EU Artificial Intelligence Act  
   https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202401689#cpt_I
 
@@ -90,30 +90,30 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   Information about the EU's AI Office and its role  
   https://digital-strategy.ec.europa.eu/en/policies/ai-office
 
-- **EC Guidance — Prohibited AI Practices** `(DE)`  
+- **EC Guidance — Prohibited AI Practices** `DE`  
   Commission guidelines on prohibited AI practices under the AI Act  
   https://digital-strategy.ec.europa.eu/de/library/commission-publishes-guidelines-prohibited-artificial-intelligence-ai-practices-defined-ai-act
 
 ### Implementation Guides
-- **RTR AI Service Center** `(DE)`  
+- **RTR AI Service Center** `DE`  
   Austrian regulatory guidance: high-level overview and provider/operator obligations  
   https://www.rtr.at/rtr/service/ki-servicestelle/ai-act/AI_Act.de.html  
   https://www.rtr.at/rtr/service/ki-servicestelle/ai-act/Betreiberverpflichtungen.de.html
 
-- **Bitkom Implementation Guide** `(DE)` (PDF)  
+- **Bitkom Implementation Guide** `DE` `PDF`  
   Practical implementation guide for the EU AI Act  
   https://www.bitkom.org/sites/main/files/2024-10/241028-bitkom-umsetzungsleitfaden-ki.pdf
 
-- **CNIL AI How-to Sheets** `(FR)`  
+- **CNIL AI How-to Sheets** `FR`  
   French data protection authority's practical AI guidance  
   https://www.cnil.fr/fr/ai-how-to-sheets
 
-- **Bird & Bird — EU AI Act Guide** (PDF)  
+- **Bird & Bird — EU AI Act Guide** `PDF`  
   Legal guide to the European Union AI Act  
   https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf
 
 ### Global Regulation Tracking
-- **IAPP Global AI Law & Policy Tracker** (PDF)  
+- **IAPP Global AI Law & Policy Tracker** `PDF`  
   Comprehensive tracking of AI regulations worldwide  
   https://iapp.org/media/pdf/resource_center/global_ai_law_policy_tracker.pdf
 
@@ -138,7 +138,7 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   Tools and frameworks for AI risk assessment  
   https://airiskassess.com/
 
-- **UK AI Management Essentials** (PDF)  
+- **UK AI Management Essentials** `PDF`  
   Self-assessment tool for AI management systems  
   https://assets.publishing.service.gov.uk/media/672a5706094e4e60c466d19f/AI_Management_Essentials_tool_Self-Assessment.pdf
 
@@ -160,19 +160,19 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/
 
 ### Governance Frameworks & Reports
-- **Microsoft Responsible AI Standard** (PDF)  
+- **Microsoft Responsible AI Standard** `PDF`  
   Microsoft's framework for responsible AI development  
   https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-Responsible-AI-Standard-v2-General-Requirements-3.pdf
 
-- **IAPP — AI Governance in Practice Report** (PDF)  
+- **IAPP — AI Governance in Practice Report** `PDF`  
   Industry survey and best practices for AI governance  
   https://iapp.org/media/pdf/resource_center/ai_governance_in_practice_report_2024.pdf
 
-- **FPF — Generative AI Considerations** (PDF)  
+- **FPF — Generative AI Considerations** `PDF`  
   Future of Privacy Forum guidance on generative AI  
   https://fpf.org/wp-content/uploads/2024/06/Generative-AI-Considerations-June-24.pdf
 
-- **CIPL — Building Accountable AI Programs** (PDF)  
+- **CIPL — Building Accountable AI Programs** `PDF`  
   Centre for Information Policy Leadership framework  
   https://www.informationpolicycentre.com/uploads/5/7/1/0/57104281/cipl_building_accountable_ai_programs_23_feb_2024.pdf
 
@@ -207,7 +207,7 @@ A practical, vendor-agnostic collection of links to help teams design, implement
 
 ## AI Tools & Automation
 
-- **CrewAI Review** `(DE)`  
+- **CrewAI Review** `DE`  
   Analysis of CrewAI multi-agent orchestration framework  
   https://textcortex.com/de/post/crewai-review
 
@@ -223,11 +223,11 @@ A practical, vendor-agnostic collection of links to help teams design, implement
 
 ## Training & Education
 
-- **mITSM — ICO Online Exam** `(DE)`  
+- **mITSM — ICO Online Exam** `DE`  
   Online certification exam platform for ISO 42001  
   https://www.mitsm.de/ico-online
 
-- **mITSM AI Competency Training** `(DE)`  
+- **mITSM AI Competency Training** `DE`  
   ISO 42001 and AI governance training programs  
   https://mitsm.de/schulung/ki-kompetenz
 
@@ -249,7 +249,7 @@ We welcome contributions!
 - **Issue labels:** Use `area:eu-ai-act`, `area:iso-42001`, `area:risk`, `area:security`, `area:ops`, etc.  
 - **Structure:** If a section grows too large, propose splitting into its own markdown file (e.g., `eu-ai-act.md`, `risk.md`) and link it from this README.
 
-> Tip: If you add national-language resources, include `(DE)`, `(EN)`, `(FR)`, etc. after the title.
+> Tip: For non-English resources, add language tags like `DE`, `FR`, etc. For PDFs, add `PDF` tag.
 
 ---
 
