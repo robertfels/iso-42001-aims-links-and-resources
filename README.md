@@ -116,6 +116,10 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   Legal guide to the European Union AI Act  
   https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf
 
+- **Systima — EU AI Act Engineering Compliance Guide**  
+  Practical guide for engineering teams on implementing EU AI Act compliance, covering risk classification, technical documentation, and conformity assessment  
+  https://systima.ai/blog/eu-ai-act-engineering-compliance-guide
+
 ### Global Regulation Tracking
 - **IAPP Global AI Law & Policy Tracker** `PDF`  
   Comprehensive tracking of AI regulations worldwide  
