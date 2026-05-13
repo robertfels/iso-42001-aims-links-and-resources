@@ -112,6 +112,14 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   French data protection authority's practical AI guidance  
   https://www.cnil.fr/fr/ai-how-to-sheets
 
+- **Audaria — ISO 42001 Certification Guide** `FR`  
+  Comprehensive French-language guide on ISO/IEC 42001 certification for SMEs: 9 control objectives, 38 Annex A controls, 7-step certification process, accredited bodies (AFNOR, Bureau Veritas, BSI, LRQA, SGS, DNV).  
+  https://audaria.fr/iso-42001/obtenir-certification
+
+- **Audaria — AI Act HR Compliance** `FR`  
+  Detailed French-language analysis of EU AI Act obligations for HR systems (Annex III §4), including Article 26 deployer obligations, FRIA Article 27, and sanctions regime (Article 99).  
+  https://audaria.fr/ai-act/conformite-rh
+
 - **Bird & Bird — EU AI Act Guide** `PDF`  
   Legal guide to the European Union AI Act  
   https://www.twobirds.com/-/media/new-website-content/pdfs/capabilities/artificial-intelligence/european-union-artificial-intelligence-act-guide.pdf
