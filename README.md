@@ -146,6 +146,10 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   Self-assessment tool for AI management systems  
   https://assets.publishing.service.gov.uk/media/672a5706094e4e60c466d19f/AI_Management_Essentials_tool_Self-Assessment.pdf
 
+- **Nimble AI Solutions: AI Governance Health Check** `UK`  
+  Free diagnostic for UK organisations mapping AI use to an ISO/IEC 42001 pathway and UK regulatory requirements  
+  https://nimbai.co.uk/ai-governance-health-check/
+
 ---
 
 ## Ethics & Governance
