@@ -129,6 +129,30 @@ A practical, vendor-agnostic collection of links to help teams design, implement
   Analysis of international AI regulation approaches  
   https://www.linkedin.com/pulse/ai-regulations-globally-same-goal-different-paths-dr-irina-steenbeek-1cipe/
 
+### Brazil `PT`
+- **LGPD — Brazilian General Data Protection Law (Law 13.709/2018)** `PT`  
+  Brazil's data protection law; Art. 20 grants the right to review decisions made solely by automated processing  
+  https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+
+- **ANPD — Regulatory Sandbox on AI and Data Protection** `PT`  
+  Pilot run by Brazil's data protection authority, focused on algorithmic transparency  
+  https://www.gov.br/anpd/pt-br/assuntos/projetos-acoes-iniciativas/sandbox/por-que-inteligencia-artificial
+
+- **PL 2338/2023 — Brazilian AI Bill (Chamber of Deputies)** `PT`  
+  Risk-based AI framework passed by the Senate in December 2024; under review by a special committee in the Chamber  
+  https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262
+
+- **ABNT NBR ISO/IEC 42001** `PT`  
+  Brazilian adoption of ISO/IEC 42001 (April 2024), published by ABNT  
+  https://www.target.com.br/produtos/normas-tecnicas/46473/nbriso-iec42001-tecnologia-da-informacao-inteligencia-artificial-sistema-de-gestao
+
+- **CFM Resolution 2.454/2026 — AI in Medicine** `PT` `PDF`  
+  Federal Council of Medicine rules for AI in healthcare: risk categories, transparency, auditability and human oversight  
+  https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2026/2454
+
+- **CMN Resolution 4.893/2021 — Cybersecurity and Cloud for Financial Institutions** `PT`  
+  Central Bank rules on cybersecurity policy and on contracting data processing and cloud services, relevant when AI services handle financial data  
+  https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4893
 ---
 
 ## Risk Management & Assessment
